@@ -35,12 +35,12 @@
     <repository>
       <id>cu-releases</id>
       <name>Comm-Unity Releases</name>
-      <url>http://universe/nexus/content/repositories/releases</url>
+      <url>https://repo.comm-unity.at/nexus/content/repositories/releases</url>
     </repository>
     <snapshotRepository>
       <id>cu-snapshots</id>
       <name>Comm-Unity Snapshots</name>
-      <url>http://universe/nexus/content/repositories/snapshots</url>
+      <url>https://repo.comm-unity.at/nexus/content/repositories/snapshots</url>
     </snapshotRepository>
   </distributionManagement>
   
